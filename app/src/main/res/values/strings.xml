@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Swami Quotes</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="image_description">SwamisImage</string>
+    <string name="my_quote">Datta means the first Energetic Incarnation with which the unimaginable God merged perfectly.</string>
+    <string name="widget_name">My Quote Widget</string>
+    <string name="logo_title">🙏🙏 Shri Datta Swami 🙏🙏</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="home_fragment_label">Home</string>
+    <string name="AboutSwami">His Holiness <b>Shri Datta Swami</b> is a world-renowned Master of spiritual knowledge and is believed to be a complete incarnation of God Datta by His close devotees. He explains that <i>\"There is only one God who revealed Himself in different human forms across the world and at different times to preach the same spiritual knowledge in different languages and cultures\"</i></string>
+
+    <string name="about_fragment_label">About</string>
+    <string name="frequency_30_minutes">30 Minutes</string>
+    <string name="frequency_1_hour">1 Hour</string>
+    <string name="frequency_3_hours">3 Hours</string>
+    <string name="frequency_6_hours">6 Hours</string>
+    <string name="frequency_1_day">1 Day</string>
+    <string name="save_button_label">get quotes</string>
+    <string name="title_choose_frequency">get a new quote on Widget every:</string>
+
+    <string name="selected_option_message">You have selected %1$s. This means that quotes on the home screen widget will update every %1$s. Click on GET QUOTES to confirm</string>
+
+    <string name="title_activity_fullscreen_quote">Full</string>
+
+</resources>
